@@ -10,7 +10,14 @@ function App() {
 
       <main>
         <article>
-          
+           <h1>Newsify</h1>
+
+          <section>
+
+          </section>
+          <section>
+            
+          </section>
         </article>
       </main>
 
